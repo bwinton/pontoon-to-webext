@@ -1,0 +1,33 @@
+{
+  "name": "pontoon-to-webext",
+  "version": "1.0.0",
+  "description": "A script to convert Pontoon-style l10n files to WebExtension-style l10n files.",
+  "main": "pontoon-to-webext.js",
+  "bin": "./pontoon-to-webext.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "habitat": "^3.1.2",
+    "minimist": "^1.2.0",
+    "properties-parser": "^0.3.1",
+    "q-io": "^1.13.2"
+  },
+  "keywords": [
+    "pontoon",
+    "l10n",
+    "webextension",
+    "webext",
+    "localization"
+  ],
+  "author": "Blake Winton <bwinton@latte.ca>",
+  "license": "MPL-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bwinton/pontoon-to-webext.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bwinton/pontoon-to-webext/issues"
+  },
+  "homepage": "https://github.com/bwinton/pontoon-to-webext#readme"
+}
