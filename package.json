@@ -1,6 +1,6 @@
 {
   "name": "pontoon-to-webext",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A script to convert Pontoon-style l10n files to WebExtension-style l10n files.",
   "main": "pontoon-to-webext.js",
   "bin": "./pontoon-to-webext.js",
