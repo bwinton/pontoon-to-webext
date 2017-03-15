@@ -20,7 +20,10 @@
     "webext",
     "localization"
   ],
-  "author": "Blake Winton <bwinton@latte.ca>",
+  "author": "Blake Winton <bwinton@latte.ca> (https://bwinton.latte.ca/)",
+  "contributors": [
+    "Jared Hirsch <ohai@6a68.net> (http://6a68.net/)"
+  ],
   "license": "MPL-2.0",
   "repository": {
     "type": "git",
